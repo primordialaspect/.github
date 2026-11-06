@@ -12,3 +12,5 @@ We build deep databases on companies, and the people and networks behind them, f
 - Website: [primordialaspect.com](https://primordialaspect.com/)
 - LinkedIn: [Primordial Aspect](https://www.linkedin.com/company/primordialaspect)
 - Contact: contact@primordialaspect.com
+
+[![Powered by Supadata](https://supadata.ai/badge/powered-by-supadata-light.svg)](https://supadata.ai/r/4K2FZR34)
